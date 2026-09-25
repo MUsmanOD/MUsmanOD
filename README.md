@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 About Me:
 🔭 I'm currently working on<br>
 MERN & Next.js applications, Shopify apps/themes, SaaS, ERP systems, and AI-powered solutions.<br>
 
